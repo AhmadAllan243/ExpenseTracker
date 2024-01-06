@@ -1,3 +1,5 @@
+# Expense Tracker
+
 This project is an expense tracker. It outputs the final balance after calculating the expense and income. The project was done using react
 
 In the project directory, you can run:
